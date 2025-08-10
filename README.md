@@ -7,7 +7,7 @@ An AI agent developed to play the *Tron Light Cycle* game, originally inspired b
 This agent uses adversarial search techniques, combining **Minimax with Alpha-Beta Pruning** and a **Flood Fill-based evaluation strategy** to make optimal decisions each turn within strict time constraints (100ms per move).
 
 <figure align="center">
-  <img src="assets/Battle.gif" alt="Cat dancing">
+  <img src="assets/Battle.gif" alt="Tron Battle">
   <figcaption><em>I'm the yellow light bar :)</em></figcaption>
 </figure>
 
